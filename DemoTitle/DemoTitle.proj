@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <ProjectGuid>89d42b46-ea51-4468-a09a-9d489c66ceee</ProjectGuid>
+    <ProjectGuid>87101717-c841-4419-a2bd-b2ca4764dda0</ProjectGuid>
     <ProjectTypeGuids>{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}</ProjectTypeGuids>
     <AppIdentifier>com.telerik.DemoTitle</AppIdentifier>
     <ProjectName>DemoTitle</ProjectName>
